@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandTextView">
+        <attr name="content_textcolor" format="color" />
+        <attr name="content_textsize" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="max_lines" format="integer" />
+        <attr name="more_text_color" format="color" />
+        <attr name="is_load_anim" format="boolean" />
+        <attr name="is_load_anim_time" format="integer" />
+    </declare-styleable>
+</resources>
